@@ -11,29 +11,18 @@ For comments, feedback, or question please [Contact Us](mailto:Tariq.AlShoura@uc
   * [Spatial and Temporal Perceptual Information Distribution.](#spatial-and-temporal-perceptual-information-distribution)
   * [Video Sequences and Encoding Evaluation.](#video-sequences-and-encoding-evaluation)
 
-
-<ul style="list-style-type:none; padding-left: 30px">
-    <li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-001'>Sequence 001</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-002'>Sequence 002</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-003'>Sequence 003</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-004'>Sequence 004</a></li>
-<br>
-<li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-005'>Sequence 005</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-006'>Sequence 006</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-007'>Sequence 007</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-008'>Sequence 008</a></li>
-<br>
-<li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-009'>Sequence 009</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-010'>Sequence 010</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-011'>Sequence 011</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-012'>Sequence 012</a></li>
-<br>
-<li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-013'>Sequence 013</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-014'>Sequence 014</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-015'>Sequence 015</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-016'>Sequence 016</a></li>
-<br>
-<li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-017'>Sequence 017</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-018'>Sequence 018</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-019'>Sequence 019</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-020'>Sequence 020</a></li>
-<br>
-<li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-021'>Sequence 021</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-022'>Sequence 022</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-023'>Sequence 023</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-024'>Sequence 024</a></li>
-<br>
-<li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-025'>Sequence 025</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-026'>Sequence 026</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-027'>Sequence 027</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-028'>Sequence 028</a></li>
-<br>
-<li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-029'>Sequence 029</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-030'>Sequence 030</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-031'>Sequence 031</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-032'>Sequence 032</a></li>
-<br>
-<li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-033'>Sequence 033</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-034'>Sequence 034</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-035'>Sequence 035</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-036'>Sequence 036</a></li>
-<br>
-<li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-037'>Sequence 037</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-038'>Sequence 038</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-039'>Sequence 039</a></li><li style='display:inline; padding: 0 10px;'>&#9679; <a href='#sequence-040'>Sequence 040</a></li>
-<br>
-    </ul>
+<table>
+<tr><td>&#9900; <a href='#sequence-001'>Sequence 001</a></td><td>&#9900; <a href='#sequence-002'>Sequence 002</a></td><td>&#9900; <a href='#sequence-003'>Sequence 003</a></td><td>&#9900; <a href='#sequence-004'>Sequence 004</a></td></tr>
+<tr><td>&#9900; <a href='#sequence-005'>Sequence 005</a></td><td>&#9900; <a href='#sequence-006'>Sequence 006</a></td><td>&#9900; <a href='#sequence-007'>Sequence 007</a></td><td>&#9900; <a href='#sequence-008'>Sequence 008</a></td></tr>
+<tr><td>&#9900; <a href='#sequence-009'>Sequence 009</a></td><td>&#9900; <a href='#sequence-010'>Sequence 010</a></td><td>&#9900; <a href='#sequence-011'>Sequence 011</a></td><td>&#9900; <a href='#sequence-012'>Sequence 012</a></td></tr>
+<tr><td>&#9900; <a href='#sequence-013'>Sequence 013</a></td><td>&#9900; <a href='#sequence-014'>Sequence 014</a></td><td>&#9900; <a href='#sequence-015'>Sequence 015</a></td><td>&#9900; <a href='#sequence-016'>Sequence 016</a></td></tr>
+<tr><td>&#9900; <a href='#sequence-017'>Sequence 017</a></td><td>&#9900; <a href='#sequence-018'>Sequence 018</a></td><td>&#9900; <a href='#sequence-019'>Sequence 019</a></td><td>&#9900; <a href='#sequence-020'>Sequence 020</a></td></tr>
+<tr><td>&#9900; <a href='#sequence-021'>Sequence 021</a></td><td>&#9900; <a href='#sequence-022'>Sequence 022</a></td><td>&#9900; <a href='#sequence-023'>Sequence 023</a></td><td>&#9900; <a href='#sequence-024'>Sequence 024</a></td></tr>
+<tr><td>&#9900; <a href='#sequence-025'>Sequence 025</a></td><td>&#9900; <a href='#sequence-026'>Sequence 026</a></td><td>&#9900; <a href='#sequence-027'>Sequence 027</a></td><td>&#9900; <a href='#sequence-028'>Sequence 028</a></td></tr>
+<tr><td>&#9900; <a href='#sequence-029'>Sequence 029</a></td><td>&#9900; <a href='#sequence-030'>Sequence 030</a></td><td>&#9900; <a href='#sequence-031'>Sequence 031</a></td><td>&#9900; <a href='#sequence-032'>Sequence 032</a></td></tr>
+<tr><td>&#9900; <a href='#sequence-033'>Sequence 033</a></td><td>&#9900; <a href='#sequence-034'>Sequence 034</a></td><td>&#9900; <a href='#sequence-035'>Sequence 035</a></td><td>&#9900; <a href='#sequence-036'>Sequence 036</a></td></tr>
+<tr><td>&#9900; <a href='#sequence-037'>Sequence 037</a></td><td>&#9900; <a href='#sequence-038'>Sequence 038</a></td><td>&#9900; <a href='#sequence-039'>Sequence 039</a></td><td>&#9900; <a href='#sequence-040'>Sequence 040</a></td></tr>
+</table>
 
 
 
@@ -142,16 +131,20 @@ ________________________________________________________________________________
 
 ## Video Sequences and Encoding Evaluation.
 Full frame-by-frame of the evaluation metrics is available **[Here](https://github.com/talshoura/SEPE-8K-Dataset/tree/main/data_description_and_analysis/frame_by_frame_encoding_analysis)**\
-The endoced video files are available **[Here](https://drive.google.com/drive/folders/1EvDYl2AYktNyiXnseTfHFZziX5fjXQ3E?usp=sharing)**
+The video sequences are available **[Here](https://drive.google.com/drive/folders/1EF0w8KGKXO24eG1znpgr2XJYYOzBZUGo?usp=sharing)**\
+The encoded video files are available **[Here](https://drive.google.com/drive/folders/1EvDYl2AYktNyiXnseTfHFZziX5fjXQ3E?usp=sharing)**
+
+Size of all sequences: ~472 GB\
+Size of encoded videos: ~302 MB
 
 ________________________________________________________________________
 
 ### Sequence 001
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/001_480p.png)](https://drive.google.com/drive/folders/1geFicEJeRD7dhmBlb0CHSQyrvIkYwp5Y?usp=sharing)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/001_480p.png)](https://drive.google.com/drive/folders/1wX3zV3zAJcS7l59DykFUdKLYP6daCkDd?usp=sharing)\
 *__Figure  2__. First Frame of Sequence 001*
 
 Size:  9.97 GB\
-Source: ***FIX THIS***
+Source: [Here](https://drive.google.com/drive/folders/1wX3zV3zAJcS7l59DykFUdKLYP6daCkDd?usp=sharing)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">001_av1_1K.mp4</td><td align="right">   3.97</td><td align="right">37.75</td><td align="right">31.96</td><td align="right">230.19</td><td align="right"> 0.86</td>
@@ -181,11 +174,11 @@ __________
 
 
 ### Sequence 002
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/002_480p.png)](https://drive.google.com/drive/folders/1J6EYEN6rjyiHzX5Hf9_wMHrQcRB5f1j3?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/002_480p.png)](https://drive.google.com/drive/folders/1J6EYEN6rjyiHzX5Hf9_wMHrQcRB5f1j3?usp=share_link)\
 *__Figure  3__. First Frame of Sequence 002*
 
 Size:  6.31 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1J6EYEN6rjyiHzX5Hf9_wMHrQcRB5f1j3?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">002_av1_1K.mp4</td><td align="right">   4.45</td><td align="right">79.92</td><td align="right">41.35</td><td align="right">23.44</td><td align="right"> 0.98</td>
@@ -215,11 +208,11 @@ __________
 
 
 ### Sequence 003
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/003_480p.png)](https://drive.google.com/drive/folders/1veJuOduzKV0UUrrx_Rk2zRwDhOp7UOHn?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/003_480p.png)](https://drive.google.com/drive/folders/1veJuOduzKV0UUrrx_Rk2zRwDhOp7UOHn?usp=share_link)\
 *__Figure  4__. First Frame of Sequence 003*
 
 Size:  7.56 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1veJuOduzKV0UUrrx_Rk2zRwDhOp7UOHn?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">003_av1_1K.mp4</td><td align="right">   4.42</td><td align="right">11.93</td><td align="right">35.13</td><td align="right">474.33</td><td align="right"> 0.69</td>
@@ -249,11 +242,11 @@ __________
 
 
 ### Sequence 004
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/004_480p.png)](https://drive.google.com/drive/folders/1qP8jLVDdv1xSiWFZk7WiMmilzpxBWZxR?usp=sharing)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/004_480p.png)](https://drive.google.com/drive/folders/1qP8jLVDdv1xSiWFZk7WiMmilzpxBWZxR?usp=sharing)\
 *__Figure  5__. First Frame of Sequence 004*
 
 Size:  6.27 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1qP8jLVDdv1xSiWFZk7WiMmilzpxBWZxR?usp=sharing)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">004_av1_1K.mp4</td><td align="right">   4.42</td><td align="right">72.83</td><td align="right">36.29</td><td align="right">215.01</td><td align="right"> 0.92</td>
@@ -283,11 +276,11 @@ __________
 
 
 ### Sequence 005
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/005_480p.png)](https://drive.google.com/drive/folders/10ArGk3Synyx9gXd2CHl6VXt9EFD7zQtC?usp=sharing)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/005_480p.png)](https://drive.google.com/drive/folders/10ArGk3Synyx9gXd2CHl6VXt9EFD7zQtC?usp=sharing)\
 *__Figure  6__. First Frame of Sequence 005*
 
 Size: 17.17 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/10ArGk3Synyx9gXd2CHl6VXt9EFD7zQtC?usp=sharing)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">005_av1_1K.mp4</td><td align="right">   4.82</td><td align="right">12.43</td><td align="right">33.88</td><td align="right">131.55</td><td align="right"> 0.69</td>
@@ -317,11 +310,11 @@ __________
 
 
 ### Sequence 006
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/006_480p.png)](https://drive.google.com/drive/folders/1hkZd8n7F7iTMkahTHW2aZyTZiRaXktDi?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/006_480p.png)](https://drive.google.com/drive/folders/1hkZd8n7F7iTMkahTHW2aZyTZiRaXktDi?usp=share_link)\
 *__Figure  7__. First Frame of Sequence 006*
 
 Size: 16.86 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1hkZd8n7F7iTMkahTHW2aZyTZiRaXktDi?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">006_av1_1K.mp4</td><td align="right">   4.02</td><td align="right"> 5.25</td><td align="right">35.06</td><td align="right">229.88</td><td align="right"> 0.92</td>
@@ -351,11 +344,11 @@ __________
 
 
 ### Sequence 007
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/007_480p.png)](https://drive.google.com/drive/folders/1-crbTwtjwLnkPu5OW4gL6em0o3_Tn3pp?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/007_480p.png)](https://drive.google.com/drive/folders/1-crbTwtjwLnkPu5OW4gL6em0o3_Tn3pp?usp=share_link)\
 *__Figure  8__. First Frame of Sequence 007*
 
 Size:  7.99 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1-crbTwtjwLnkPu5OW4gL6em0o3_Tn3pp?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">007_av1_1K.mp4</td><td align="right">   4.32</td><td align="right"> 8.66</td><td align="right">34.28</td><td align="right">213.60</td><td align="right"> 0.78</td>
@@ -385,11 +378,11 @@ __________
 
 
 ### Sequence 008
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/008_480p.png)](https://drive.google.com/drive/folders/1I1FJ5gMShqGPSmxBVGmogbO2RkVdyxEN?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/008_480p.png)](https://drive.google.com/drive/folders/1I1FJ5gMShqGPSmxBVGmogbO2RkVdyxEN?usp=share_link)\
 *__Figure  9__. First Frame of Sequence 008*
 
 Size: 15.32 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1I1FJ5gMShqGPSmxBVGmogbO2RkVdyxEN?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">008_av1_1K.mp4</td><td align="right">   3.98</td><td align="right">13.37</td><td align="right">30.59</td><td align="right">386.52</td><td align="right"> 0.72</td>
@@ -419,11 +412,11 @@ __________
 
 
 ### Sequence 009
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/009_480p.png)](https://drive.google.com/drive/folders/1C0Cjke5SXXei92v64JNL_GxGWfSP9mb6?usp=sharing)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/009_480p.png)](https://drive.google.com/drive/folders/1C0Cjke5SXXei92v64JNL_GxGWfSP9mb6?usp=sharing)\
 *__Figure 10__. First Frame of Sequence 009*
 
 Size: 15.00 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1C0Cjke5SXXei92v64JNL_GxGWfSP9mb6?usp=sharing)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">009_av1_1K.mp4</td><td align="right">   4.19</td><td align="right">13.03</td><td align="right">40.17</td><td align="right">149.91</td><td align="right"> 0.71</td>
@@ -453,11 +446,11 @@ __________
 
 
 ### Sequence 010
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/010_480p.png)](https://drive.google.com/drive/folders/1t7G9eImxwUE94KxYuRuhk5h5UJohL5ZA?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/010_480p.png)](https://drive.google.com/drive/folders/1t7G9eImxwUE94KxYuRuhk5h5UJohL5ZA?usp=share_link)\
 *__Figure 11__. First Frame of Sequence 010*
 
 Size: 19.83 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1t7G9eImxwUE94KxYuRuhk5h5UJohL5ZA?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">010_av1_1K.mp4</td><td align="right">   3.89</td><td align="right">76.95</td><td align="right">38.57</td><td align="right">327.39</td><td align="right"> 0.96</td>
@@ -487,11 +480,11 @@ __________
 
 
 ### Sequence 011
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/011_480p.png)](https://drive.google.com/drive/folders/1jMto-6myikzWCoCo5Y0FrdPDxAuF6V1k?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/011_480p.png)](https://drive.google.com/drive/folders/1jMto-6myikzWCoCo5Y0FrdPDxAuF6V1k?usp=share_link)\
 *__Figure 12__. First Frame of Sequence 011*
 
 Size:  5.78 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1jMto-6myikzWCoCo5Y0FrdPDxAuF6V1k?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">011_av1_1K.mp4</td><td align="right">   4.22</td><td align="right">24.44</td><td align="right">34.45</td><td align="right">875.28</td><td align="right"> 0.74</td>
@@ -521,11 +514,11 @@ __________
 
 
 ### Sequence 012
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/012_480p.png)](https://drive.google.com/drive/folders/1YLJP1JAUjifGtgSTnVL1Wlx2WPUendTd?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/012_480p.png)](https://drive.google.com/drive/folders/1YLJP1JAUjifGtgSTnVL1Wlx2WPUendTd?usp=share_link)\
 *__Figure 13__. First Frame of Sequence 012*
 
 Size:  5.78 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1YLJP1JAUjifGtgSTnVL1Wlx2WPUendTd?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">012_av1_1K.mp4</td><td align="right">   4.47</td><td align="right">20.78</td><td align="right">42.61</td><td align="right">110.05</td><td align="right"> 0.78</td>
@@ -555,11 +548,11 @@ __________
 
 
 ### Sequence 013
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/013_480p.png)](https://drive.google.com/drive/folders/1BW78JWK1FURwVFlbO9wobWGxfvC5M-qt?usp=sharing)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/013_480p.png)](https://drive.google.com/drive/folders/1BW78JWK1FURwVFlbO9wobWGxfvC5M-qt?usp=sharing)\
 *__Figure 14__. First Frame of Sequence 013*
 
 Size:  9.86 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1BW78JWK1FURwVFlbO9wobWGxfvC5M-qt?usp=sharing)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">013_av1_1K.mp4</td><td align="right">   4.46</td><td align="right">54.46</td><td align="right">35.38</td><td align="right">175.29</td><td align="right"> 0.86</td>
@@ -589,11 +582,11 @@ __________
 
 
 ### Sequence 014
-[![Seq# 1](https://drive.google.com/drive/folders/1Jjdrihc_lPh_ABPRZVbvOGJaPsLwYji5?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/014_480p.png)](https://drive.google.com/drive/folders/1Jjdrihc_lPh_ABPRZVbvOGJaPsLwYji5?usp=share_link)\
 *__Figure 15__. First Frame of Sequence 014*
 
 Size: 11.99 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1Jjdrihc_lPh_ABPRZVbvOGJaPsLwYji5?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">014_av1_1K.mp4</td><td align="right">   4.78</td><td align="right">10.06</td><td align="right">31.85</td><td align="right">584.60</td><td align="right"> 0.55</td>
@@ -623,11 +616,11 @@ __________
 
 
 ### Sequence 015
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/015_480p.png)](https://drive.google.com/drive/folders/1quWkHPelIIjqnNuEzBwE_PXGWTcGsRHj?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/015_480p.png)](https://drive.google.com/drive/folders/1quWkHPelIIjqnNuEzBwE_PXGWTcGsRHj?usp=share_link)\
 *__Figure 16__. First Frame of Sequence 015*
 
 Size:  9.66 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1quWkHPelIIjqnNuEzBwE_PXGWTcGsRHj?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">015_av1_1K.mp4</td><td align="right">   4.30</td><td align="right"> 4.10</td><td align="right">30.94</td><td align="right">558.17</td><td align="right"> 0.64</td>
@@ -657,11 +650,11 @@ __________
 
 
 ### Sequence 016
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/016_480p.png)](https://drive.google.com/drive/folders/1Bvk4CJpKb820Iwje3RbnG0SoilaKO8lc?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/016_480p.png)](https://drive.google.com/drive/folders/1Bvk4CJpKb820Iwje3RbnG0SoilaKO8lc?usp=share_link)\
 *__Figure 17__. First Frame of Sequence 016*
 
 Size:  7.85 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1Bvk4CJpKb820Iwje3RbnG0SoilaKO8lc?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">016_av1_1K.mp4</td><td align="right">   4.21</td><td align="right"> 5.92</td><td align="right">34.18</td><td align="right">116.70</td><td align="right"> 0.72</td>
@@ -691,11 +684,11 @@ __________
 
 
 ### Sequence 017
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/017_480p.png)](https://drive.google.com/drive/folders/17sLpoKqUAQhiLmESB4niZ0b9vrQ51YHG?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/017_480p.png)](https://drive.google.com/drive/folders/17sLpoKqUAQhiLmESB4niZ0b9vrQ51YHG?usp=share_link)\
 *__Figure 18__. First Frame of Sequence 017*
 
 Size:  9.82 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/17sLpoKqUAQhiLmESB4niZ0b9vrQ51YHG?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">017_av1_1K.mp4</td><td align="right">   3.97</td><td align="right">67.31</td><td align="right">38.93</td><td align="right">40.24</td><td align="right"> 0.95</td>
@@ -725,11 +718,11 @@ __________
 
 
 ### Sequence 018
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/018_480p.png)](https://drive.google.com/drive/folders/1gpKwiGLZ03IV0PIWQlB5eEfxo-rsNlKN?usp=sharing)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/018_480p.png)](https://drive.google.com/drive/folders/1gpKwiGLZ03IV0PIWQlB5eEfxo-rsNlKN?usp=sharing)\
 *__Figure 19__. First Frame of Sequence 018*
 
 Size:  9.73 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1gpKwiGLZ03IV0PIWQlB5eEfxo-rsNlKN?usp=sharing)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">018_av1_1K.mp4</td><td align="right">   4.36</td><td align="right"> 3.53</td><td align="right">43.35</td><td align="right">147.74</td><td align="right"> 0.72</td>
@@ -759,11 +752,11 @@ __________
 
 
 ### Sequence 019
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/019_480p.png)](https://drive.google.com/drive/folders/1cKPTbkDro_DCzgZKtirpv59T86NO0ZDv?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/019_480p.png)](https://drive.google.com/drive/folders/1cKPTbkDro_DCzgZKtirpv59T86NO0ZDv?usp=share_link)\
 *__Figure 20__. First Frame of Sequence 019*
 
 Size: 15.04 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1cKPTbkDro_DCzgZKtirpv59T86NO0ZDv?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">019_av1_1K.mp4</td><td align="right">   4.45</td><td align="right">22.77</td><td align="right">35.25</td><td align="right">90.84</td><td align="right"> 0.84</td>
@@ -793,11 +786,11 @@ __________
 
 
 ### Sequence 020
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/020_480p.png)](https://drive.google.com/drive/folders/1Ss7JO2Do-UcA1uGSFQo-qp_InNCCihuu?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/020_480p.png)](https://drive.google.com/drive/folders/1Ss7JO2Do-UcA1uGSFQo-qp_InNCCihuu?usp=share_link)\
 *__Figure 21__. First Frame of Sequence 020*
 
 Size:  6.48 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1Ss7JO2Do-UcA1uGSFQo-qp_InNCCihuu?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">020_av1_1K.mp4</td><td align="right">   4.24</td><td align="right">73.82</td><td align="right">44.28</td><td align="right">18.59</td><td align="right"> 0.97</td>
@@ -827,11 +820,11 @@ __________
 
 
 ### Sequence 021
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/021_480p.png)](https://drive.google.com/drive/folders/1GN4c0wgolAYQr51oFJvyxQR2iAQCgWS7?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/021_480p.png)](https://drive.google.com/drive/folders/1GN4c0wgolAYQr51oFJvyxQR2iAQCgWS7?usp=share_link)\
 *__Figure 22__. First Frame of Sequence 021*
 
 Size:  8.72 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1GN4c0wgolAYQr51oFJvyxQR2iAQCgWS7?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">021_av1_1K.mp4</td><td align="right">   4.07</td><td align="right"> 8.72</td><td align="right">34.30</td><td align="right">457.92</td><td align="right"> 0.42</td>
@@ -861,11 +854,11 @@ __________
 
 
 ### Sequence 022
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/022_480p.png)](https://drive.google.com/drive/folders/1yKmK7s2gx4roQmGLwitOnJn0Ouq4TCaA?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/022_480p.png)](https://drive.google.com/drive/folders/1yKmK7s2gx4roQmGLwitOnJn0Ouq4TCaA?usp=share_link)\
 *__Figure 23__. First Frame of Sequence 022*
 
 Size:  5.13 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1yKmK7s2gx4roQmGLwitOnJn0Ouq4TCaA?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">022_av1_1K.mp4</td><td align="right">   4.13</td><td align="right"> 2.92</td><td align="right">32.46</td><td align="right">753.16</td><td align="right"> 0.69</td>
@@ -895,11 +888,11 @@ __________
 
 
 ### Sequence 023
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/023_480p.png)](https://drive.google.com/drive/folders/1_E4fP5i9RE3mQHtGA5vAcDDOQA2LESm1?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/023_480p.png)](https://drive.google.com/drive/folders/1_E4fP5i9RE3mQHtGA5vAcDDOQA2LESm1?usp=share_link)\
 *__Figure 24__. First Frame of Sequence 023*
 
 Size:  7.48 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1_E4fP5i9RE3mQHtGA5vAcDDOQA2LESm1?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">023_av1_1K.mp4</td><td align="right">   4.08</td><td align="right">15.36</td><td align="right">38.99</td><td align="right">152.77</td><td align="right"> 0.70</td>
@@ -929,11 +922,11 @@ __________
 
 
 ### Sequence 024
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/024_480p.png)](https://drive.google.com/drive/folders/1746B8UPJR77UmERnP9as62Z6PhSLq-3M?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/024_480p.png)](https://drive.google.com/drive/folders/1746B8UPJR77UmERnP9as62Z6PhSLq-3M?usp=share_link)\
 *__Figure 25__. First Frame of Sequence 024*
 
 Size: 19.74 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1746B8UPJR77UmERnP9as62Z6PhSLq-3M?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">024_av1_1K.mp4</td><td align="right">   3.69</td><td align="right">95.07</td><td align="right">44.56</td><td align="right"> 9.04</td><td align="right"> 0.99</td>
@@ -963,11 +956,11 @@ __________
 
 
 ### Sequence 025
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/025_480p.png)](https://drive.google.com/drive/folders/1PQtP-u0U8sFXp384uS6vTRnnU8lxnf00?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/025_480p.png)](https://drive.google.com/drive/folders/1PQtP-u0U8sFXp384uS6vTRnnU8lxnf00?usp=share_link)\
 *__Figure 26__. First Frame of Sequence 025*
 
 Size: 24.69 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1PQtP-u0U8sFXp384uS6vTRnnU8lxnf00?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">025_av1_1K.mp4</td><td align="right">   3.97</td><td align="right">77.81</td><td align="right">38.32</td><td align="right">15.39</td><td align="right"> 0.97</td>
@@ -997,11 +990,11 @@ __________
 
 
 ### Sequence 026
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/026_480p.png)](https://drive.google.com/drive/folders/1acCPiOXh78ZKhw-OoVFBiNjKsDgxJn7t?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/026_480p.png)](https://drive.google.com/drive/folders/1acCPiOXh78ZKhw-OoVFBiNjKsDgxJn7t?usp=share_link)\
 *__Figure 27__. First Frame of Sequence 026*
 
 Size: 21.45 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1acCPiOXh78ZKhw-OoVFBiNjKsDgxJn7t?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">026_av1_1K.mp4</td><td align="right">   4.84</td><td align="right">34.07</td><td align="right">30.91</td><td align="right">310.38</td><td align="right"> 0.78</td>
@@ -1031,11 +1024,11 @@ __________
 
 
 ### Sequence 027
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/027_480p.png)](https://drive.google.com/drive/folders/1F8o_t2UhfEC8UnkEHO017jht2pYhKyjI?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/027_480p.png)](https://drive.google.com/drive/folders/1F8o_t2UhfEC8UnkEHO017jht2pYhKyjI?usp=share_link)\
 *__Figure 28__. First Frame of Sequence 027*
 
 Size: 19.49 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1F8o_t2UhfEC8UnkEHO017jht2pYhKyjI?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">027_av1_1K.mp4</td><td align="right">   3.97</td><td align="right">86.46</td><td align="right">43.88</td><td align="right"> 5.18</td><td align="right"> 0.99</td>
@@ -1065,11 +1058,11 @@ __________
 
 
 ### Sequence 028
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/028_480p.png)](https://drive.google.com/drive/folders/1WxHTv7sT_R9Gend0IDZ2DIzQeCHg5WYV?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/028_480p.png)](https://drive.google.com/drive/folders/1WxHTv7sT_R9Gend0IDZ2DIzQeCHg5WYV?usp=share_link)\
 *__Figure 29__. First Frame of Sequence 028*
 
 Size: 11.88 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1WxHTv7sT_R9Gend0IDZ2DIzQeCHg5WYV?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">028_av1_1K.mp4</td><td align="right">   4.89</td><td align="right"> 9.80</td><td align="right">33.48</td><td align="right">905.82</td><td align="right"> 0.47</td>
@@ -1099,11 +1092,11 @@ __________
 
 
 ### Sequence 029
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/029_480p.png)](https://drive.google.com/drive/folders/1Gmb-2hwoxd2TGwEaF1ePp4Ftrt0obBBe?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/029_480p.png)](https://drive.google.com/drive/folders/1Gmb-2hwoxd2TGwEaF1ePp4Ftrt0obBBe?usp=share_link)\
 *__Figure 30__. First Frame of Sequence 029*
 
 Size: 14.94 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1Gmb-2hwoxd2TGwEaF1ePp4Ftrt0obBBe?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">029_av1_1K.mp4</td><td align="right">   4.01</td><td align="right">75.42</td><td align="right">39.61</td><td align="right">58.13</td><td align="right"> 0.97</td>
@@ -1133,11 +1126,11 @@ __________
 
 
 ### Sequence 030
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/030_480p.png)](https://drive.google.com/drive/folders/1lgYq24zbyKTusHddLB9U4HsvvexC7Aht?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/030_480p.png)](https://drive.google.com/drive/folders/1lgYq24zbyKTusHddLB9U4HsvvexC7Aht?usp=share_link)\
 *__Figure 31__. First Frame of Sequence 030*
 
 Size: 18.30 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1lgYq24zbyKTusHddLB9U4HsvvexC7Aht?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">030_av1_1K.mp4</td><td align="right">   4.34</td><td align="right">13.64</td><td align="right">30.78</td><td align="right">304.01</td><td align="right"> 0.55</td>
@@ -1167,11 +1160,11 @@ __________
 
 
 ### Sequence 031
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/031_480p.png)](https://drive.google.com/drive/folders/1-uBPcBo-lnnBb1uV04P5IywzH6563e7o?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/031_480p.png)](https://drive.google.com/drive/folders/1-uBPcBo-lnnBb1uV04P5IywzH6563e7o?usp=share_link)\
 *__Figure 32__. First Frame of Sequence 031*
 
 Size:  6.07 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1-uBPcBo-lnnBb1uV04P5IywzH6563e7o?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">031_av1_1K.mp4</td><td align="right">   4.05</td><td align="right">52.16</td><td align="right">31.27</td><td align="right">501.89</td><td align="right"> 0.76</td>
@@ -1201,11 +1194,11 @@ __________
 
 
 ### Sequence 032
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/032_480p.png)](https://drive.google.com/drive/folders/1XNEH14stdG834bGYfk7Y9Cc_oOcUq0_J?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/032_480p.png)](https://drive.google.com/drive/folders/1XNEH14stdG834bGYfk7Y9Cc_oOcUq0_J?usp=share_link)\
 *__Figure 33__. First Frame of Sequence 032*
 
 Size: 22.35 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1XNEH14stdG834bGYfk7Y9Cc_oOcUq0_J?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">032_av1_1K.mp4</td><td align="right">   3.85</td><td align="right">39.75</td><td align="right">30.03</td><td align="right">450.20</td><td align="right"> 0.77</td>
@@ -1235,11 +1228,11 @@ __________
 
 
 ### Sequence 033
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/033_480p.png)](https://drive.google.com/drive/folders/13Llz-BrpnPvflcVGEhvKYJxsSGt3VxZ-?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/033_480p.png)](https://drive.google.com/drive/folders/13Llz-BrpnPvflcVGEhvKYJxsSGt3VxZ-?usp=share_link)\
 *__Figure 34__. First Frame of Sequence 033*
 
 Size: 15.76 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/13Llz-BrpnPvflcVGEhvKYJxsSGt3VxZ-?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">033_av1_1K.mp4</td><td align="right">   3.62</td><td align="right"> 6.05</td><td align="right">30.28</td><td align="right">723.79</td><td align="right"> 0.77</td>
@@ -1269,11 +1262,11 @@ __________
 
 
 ### Sequence 034
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/034_480p.png)](https://drive.google.com/drive/folders/1YmHT6kDsSb2a7yEOUgrhXhwvOGzzfcpA?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/034_480p.png)](https://drive.google.com/drive/folders/1YmHT6kDsSb2a7yEOUgrhXhwvOGzzfcpA?usp=share_link)\
 *__Figure 35__. First Frame of Sequence 034*
 
 Size: 14.67 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1YmHT6kDsSb2a7yEOUgrhXhwvOGzzfcpA?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">034_av1_1K.mp4</td><td align="right">   4.49</td><td align="right">16.44</td><td align="right">37.60</td><td align="right">100.35</td><td align="right"> 0.75</td>
@@ -1303,11 +1296,11 @@ __________
 
 
 ### Sequence 035
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/035_480p.png)](https://drive.google.com/drive/folders/1tsKQVAPpNB0gWcTf4YqSafH3Zy3EZMLg?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/035_480p.png)](https://drive.google.com/drive/folders/1tsKQVAPpNB0gWcTf4YqSafH3Zy3EZMLg?usp=share_link)\
 *__Figure 36__. First Frame of Sequence 035*
 
 Size: 16.50 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1tsKQVAPpNB0gWcTf4YqSafH3Zy3EZMLg?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">035_av1_1K.mp4</td><td align="right">   4.34</td><td align="right">58.49</td><td align="right">35.72</td><td align="right">870.44</td><td align="right"> 0.89</td>
@@ -1337,11 +1330,11 @@ __________
 
 
 ### Sequence 036
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/036_480p.png)](https://drive.google.com/drive/folders/1sH0a5J9zXNoVUMxOQmAjE-CbUWHV_Oln?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/036_480p.png)](https://drive.google.com/drive/folders/1sH0a5J9zXNoVUMxOQmAjE-CbUWHV_Oln?usp=share_link)\
 *__Figure 37__. First Frame of Sequence 036*
 
 Size: 11.11 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1sH0a5J9zXNoVUMxOQmAjE-CbUWHV_Oln?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">036_av1_1K.mp4</td><td align="right">   4.03</td><td align="right">54.31</td><td align="right">35.11</td><td align="right">304.54</td><td align="right"> 0.78</td>
@@ -1371,11 +1364,11 @@ __________
 
 
 ### Sequence 037
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/037_480p.png)](https://drive.google.com/drive/folders/1-uoD5UDSn9YXsUwF0RuAt-W84JLOm4OT?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/037_480p.png)](https://drive.google.com/drive/folders/1-uoD5UDSn9YXsUwF0RuAt-W84JLOm4OT?usp=share_link)\
 *__Figure 38__. First Frame of Sequence 037*
 
 Size:  8.13 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1-uoD5UDSn9YXsUwF0RuAt-W84JLOm4OT?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">037_av1_1K.mp4</td><td align="right">   4.42</td><td align="right">87.91</td><td align="right">40.78</td><td align="right">20.73</td><td align="right"> 0.99</td>
@@ -1405,11 +1398,11 @@ __________
 
 
 ### Sequence 038
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/038_480p.png)](https://drive.google.com/drive/folders/1H7AhvVj59Gv_FjkfNzLOLR3zAKskQj06?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/038_480p.png)](https://drive.google.com/drive/folders/1H7AhvVj59Gv_FjkfNzLOLR3zAKskQj06?usp=share_link)\
 *__Figure 39__. First Frame of Sequence 038*
 
 Size:  7.40 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1H7AhvVj59Gv_FjkfNzLOLR3zAKskQj06?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">038_av1_1K.mp4</td><td align="right">   5.11</td><td align="right"> 4.55</td><td align="right">30.97</td><td align="right">141.68</td><td align="right"> 0.68</td>
@@ -1439,11 +1432,11 @@ __________
 
 
 ### Sequence 039
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/039_480p.png)](https://drive.google.com/drive/folders/1jU6AUf1Vf8ge8Jn7OoCJMPazUiVhcM8F?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/039_480p.png)](https://drive.google.com/drive/folders/1jU6AUf1Vf8ge8Jn7OoCJMPazUiVhcM8F?usp=share_link)\
 *__Figure 40__. First Frame of Sequence 039*
 
 Size: 18.38 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1jU6AUf1Vf8ge8Jn7OoCJMPazUiVhcM8F?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">039_av1_1K.mp4</td><td align="right">   3.56</td><td align="right">81.67</td><td align="right">42.00</td><td align="right">17.49</td><td align="right"> 0.98</td>
@@ -1473,11 +1466,11 @@ __________
 
 
 ### Sequence 040
-[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/040_480p.png)](https://drive.google.com/drive/folders/1jU6AUf1Vf8ge8Jn7OoCJMPazUiVhcM8F?usp=share_link)
+[![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/040_480p.png)](https://drive.google.com/drive/folders/1jU6AUf1Vf8ge8Jn7OoCJMPazUiVhcM8F?usp=share_link)\
 *__Figure 41__. First Frame of Sequence 040*
 
 Size: 14.21 GB\
-Source: ***FIX THIS***
+Source: [HERE](https://drive.google.com/drive/folders/1jU6AUf1Vf8ge8Jn7OoCJMPazUiVhcM8F?usp=share_link)
 
 <table><tbody><tr><td><b><i>File</td><td align="right"><b><i>Bitrate</td><td align="right"><b><i>VMAF</td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td align="right"><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td></tr>
 <tr><td align="left">040_av1_1K.mp4</td><td align="right">   4.91</td><td align="right"> 6.76</td><td align="right">37.77</td><td align="right">182.92</td><td align="right"> 0.63</td>
