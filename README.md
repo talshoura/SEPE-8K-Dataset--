@@ -9,7 +9,10 @@ For comments, feedback, or question please [Contact Us](mailto:Tariq.AlShoura@uc
 ## Table of Contents
   * [Bitrates used for each video codec and resolution combination.](#bitrates-used-for-each-video-codec-and-resolution-combination)
   * [Spatial and Temporal Perceptual Information Distribution.](#spatial-and-temporal-perceptual-information-distribution)
-  * [Video Sequences and Encoding Evaluation.](#video-sequences-and-encoding-evaluation)
+  * [FFmpeg Commands](#ffmpeg-commands)
+    * [Video Encoding Commands](#video-encoding-commands)
+    * [Image Transforming Commands](#image-transforming-commands)
+  * [Video Sequences Details and Encoding Evaluation.](#video-sequences-details-and-encoding-evaluation)
 
 <!-- <style>
 .boarderless td, th {
@@ -128,19 +131,188 @@ ________________________________________________________________________________
 <sup>1</sup> <i>No Hardware acceleration support</i><br>
 <sup>2</sup> <i>(2732 × 1440) for HEVC due to nvenc library constrictions</i><br>
 <sup>3</sup> <i>(1366 × 720) for HEVC due to nvenc library constrictions</i>
+<br><br>
+
+
+[Back to Top](#idtext)
+
+________________
+
 
 ## Spatial and Temporal Perceptual Information Distribution.
 ![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/SI_TI.png)
 *__Figure 1.__ Spatial and Temporal Information Distribution*
 
+[Back to Top](#idtext)
 
-## Video Sequences and Encoding Evaluation.
+________________
+
+
+## FFmpeg Commands
+
+### Video Encoding Commands
+**Base video encoding script**
+```
+ffmpeg -framerate 30000/1001 -pattern_type glob -i "${sequenceID}/*.png" -vf scale=-1:${scale} -b:v ${bitrate}$ -c:v ${encoder} -preset ${preset} "${sequenceID}_${codec}_${resolution}.mp4"
+```
+<br>
+
+*__Table  42__. Variable alternatives used in generating encoded videos*
+<table>
+
+  <tr>
+    <th>Variable</th>
+    <th>Alternative</th>
+    <th>Value</th>
+  </tr>
+
+  <tr>
+    <td><code>${sequenceID}</code></td>
+    <td>-</td>
+    <td>from 000 to 040</td>
+  </tr>
+  <tr>
+    <td rowspan="6"><code>${scale}</code></td>
+    <td>8K</td>
+    <td><code>4320</code></td>
+  </tr>
+  <tr>
+    <td>4K</td>
+    <td><code>2160</code></td>
+  </tr>
+  <tr>
+    <td>2K</td>
+    <td><code>1440</code></td>
+  </tr>
+  <tr>
+    <td>1K</td>
+    <td><code>1080</code></td>
+  </tr>
+  <tr>
+    <td>720p</td>
+    <td><code>720</code></td>
+  </tr>
+  <tr>
+    <td>480p</td>
+    <td><code>480</code></td>
+  </tr>
+  <tr>
+    <td><code>${bitrate}</code></td>
+    <td>-</td>
+    <td>Depends on the required value. <br>Refer to <a href='#bitrates-used-for-each-video-codec-and-resolution-combination'>Table 1 </a> for the values used.</td>
+  </tr>
+  <tr>
+    <td rowspan="3"><code>${encoder}</code></td>
+    <td>HEVC/H265</td>
+    <td><code>hevc_nvenc</code></td>
+  </tr>
+  <tr>
+    <td>AVC/H264</td>
+    <td><code>h264_nvenc</code></td>
+  </tr>
+  <tr>
+    <td>AV1</td>
+    <td><code>libaom-av1</code></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><code>${presets}</code></td>
+    <td>HEVC/H265</td>
+    <td><code>18</code></td>
+  </tr>
+  <tr>
+    <td>AVC/H264</td>
+    <td><code>18</code></td>
+  </tr>
+  <tr>
+    <td>AV1</td>
+    <td><code>slow</code></td>
+  </tr>
+</table>
+
+
+[Back to Top](#idtext)
+
+________________
+
+
+
+### Image Transforming Commands
+**Base image transforming script**
+```
+ffmpeg -i "${imageID}/*.tif" -vf scale=-1:${scale} "${imageID}_${codec}_${resolution}.${extention}"
+```
+<br>
+
+*__Table  42__. Variable alternatives used in generating encoded videos*
+<table>
+
+  <tr>
+    <th>Variable</th>
+    <th>Alternative</th>
+    <th>Value</th>
+  </tr>
+
+  <tr>
+    <td><code>${imageID}</code></td>
+    <td>-</td>
+    <td>from 000 to 040</td>
+  </tr>
+  <tr>
+    <td rowspan="6"><code>${scale}</code></td>
+    <td>8K</td>
+    <td><code>4320</code></td>
+  </tr>
+  <tr>
+    <td>4K</td>
+    <td><code>2160</code></td>
+  </tr>
+  <tr>
+    <td>2K</td>
+    <td><code>1440</code></td>
+  </tr>
+  <tr>
+    <td>1K</td>
+    <td><code>1080</code></td>
+  </tr>
+  <tr>
+    <td>720p</td>
+    <td><code>720</code></td>
+  </tr>
+  <tr>
+    <td>480p</td>
+    <td><code>480</code></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><code>${extention}</code></td>
+    <td>PNG</td>
+    <td><code>png</code></td>
+  </tr>
+  <tr>
+    <td>JPEG</td>
+    <td><code>jpg</code></td>
+  </tr>
+  <tr>
+    <td>WEBP</td>
+    <td><code>webp</code></td>
+  </tr>
+</table>
+
+
+[Back to Top](#idtext)
+
+____________________
+
+
+
+## Video Sequences Details and Encoding Evaluation.
 Full frame-by-frame of the evaluation metrics is available **[Here](https://github.com/talshoura/SEPE-8K-Dataset/tree/main/data_description_and_analysis/frame_by_frame_encoding_analysis)**\
 The video sequences are available **[Here](https://drive.google.com/drive/folders/1EF0w8KGKXO24eG1znpgr2XJYYOzBZUGo?usp=sharing)**\
 The encoded video files are available **[Here](https://drive.google.com/drive/folders/1EvDYl2AYktNyiXnseTfHFZziX5fjXQ3E?usp=sharing)**
 
 Size of all sequences: ~472 GB\
 Size of encoded videos: ~302 MB
+
+[Back to Top](#idtext)
 
 ________________________________________________________________________
 
@@ -153,7 +325,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1wX3zV3zAJcS7l59DykFUdKLYP
 
 <br>
 
-*__Table 2__. Description of encoded videos using sequence 001 and their performance evaluation*<table><tbody><tr><td rowspan="2"><b><i>File</td><td rowspan="2" align="right"><b><i>Codec</td><td rowspan="2" align="right"><b><i>Resolution</td><td rowspan="2" align="right"><b><i>Pixel Format</td><td rowspan="2" align="right"><b><i>File Size (MB)</td><td rowspan="2" align="right"><b><i>Bitrate (MB)</td><td colspan="3" align="right"><b><i># Frame Types</td><td rowspan="2" align="right"><b><i>VMAF</td><td rowspan="2" align="right"><b><i><SPAN STYLE="text-decoration:overline">PSNR</SPAN></td><td rowspan="2" align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td rowspan="2" align="right"><b><i><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td><td colspan="3" align="center"><b><i>PSNR</td><td colspan="3" align="center"><b><i>MSE</td><td colspan="3" align="center"><b><i>SSIM</td></tr>
+*__Table 2__. Description of encoded videos using sequence 001 and their performance evaluation*<table><tbody><tr><td rowspan="2"><b><i>File</td><td rowspan="2" align="right"><b><i>Codec</td><td rowspan="2" align="right"><b><i>Resolution</td><td rowspan="2" align="right"><b><i>Pixel Format</td><td rowspan="2" align="right"><b><i>File Size (MB)</td><td rowspan="2" align="right"><b><i>Bitrate (MB)</td><td colspan="3" align="right"><b><i># Frame Types</td><td rowspan="2" align="right"><b><i>VMAF</td><td rowspan="2" align="right"><b><i><SPAN STYLE="text-decoration-line:overline">PSNR</SPAN></td><td rowspan="2" align="right"><b><i><SPAN STYLE="text-decoration:overline">MSE</SPAN></td><td rowspan="2" align="right"><b><i><SPAN STYLE="text-decoration:overline">SSIM</SPAN></td><td colspan="3" align="center"><b><i>PSNR</td><td colspan="3" align="center"><b><i>MSE</td><td colspan="3" align="center"><b><i>SSIM</td></tr>
 <tr><td align="right"><b><i>I</td><td align="right"><b><i>P</td><td align="right"><b><i>B</td><td align="right"><b><i>y</td><td align="right"><b><i>u</td><td align="right"><b><i>v</td><td align="right"><b><i>y</td><td align="right"><b><i>u</td><td align="right"><b><i>v</td><td align="right"><b><i>y</td><td align="right"><b><i>u</td><td align="right"><b><i>v</td></tr><tr><td align="left">001_av1_1K.mp4</td><td align="center">AV1</td><td align="center">2048x1080</td><td align="right">yuv420p</td><td align="right">   4.97</td><td align="right">   3.97</td><td align="right">1</td><td align="right">299</td><td align="right">0</td><td align="right">37.75</td><td align="right">31.96</td><td align="right">230.19</td><td align="right"> 0.8607</td><td align="right">28.87</td><td align="right">32.09</td><td align="right">34.91</td><td align="right">290.40</td><td align="right">158.81</td><td align="right">60.76</td><td align="right"> 0.9212</td><td align="right"> 0.9113</td><td align="right"> 0.9469</td></tr>
 <tr><td align="left">001_av1_2K.mp4</td><td align="center">AV1</td><td align="center">2731x1440</td><td align="right">yuv420p</td><td align="right">  10.46</td><td align="right">   8.36</td><td align="right">1</td><td align="right">299</td><td align="right">0</td><td align="right">38.30</td><td align="right">31.82</td><td align="right">230.72</td><td align="right"> 0.8523</td><td align="right">28.84</td><td align="right">31.87</td><td align="right">34.76</td><td align="right">290.77</td><td align="right">160.34</td><td align="right">61.02</td><td align="right"> 0.9360</td><td align="right"> 0.9187</td><td align="right"> 0.9532</td></tr>
 <tr><td align="left">001_av1_480p.mp4</td><td align="center">AV1</td><td align="center">910x480</td><td align="right">yuv420p</td><td align="right">   2.01</td><td align="right">   1.60</td><td align="right">1</td><td align="right">299</td><td align="right">0</td><td align="right">39.73</td><td align="right">32.38</td><td align="right">230.64</td><td align="right"> 0.8509</td><td align="right">28.96</td><td align="right">32.81</td><td align="right">35.36</td><td align="right">290.98</td><td align="right">158.97</td><td align="right">60.94</td><td align="right"> 0.8680</td><td align="right"> 0.8758</td><td align="right"> 0.9159</td></tr>
@@ -1581,3 +1753,22 @@ Source: [HERE](https://drive.google.com/drive/folders/19YXXi2zxCMBf5oJ_vSJPhDa6M
 [Back to Top](#idtext)
 
 __________
+
+
+
+## Video Sequences average RBG Histogram over time.
+![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/Seq_Hist.png)
+*__Figure 42.__ Average RBG Histogram over time for all the sequences in the SEPE dataset*
+
+[Back to Top](#idtext)
+_________
+
+
+## Images Histogram over time.
+![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/Images_Hist.png)
+*__Figure 43.__ RBG Histogram for all images in the SEPE dataset*
+
+[Back to Top](#idtext)
+
+_________
+
