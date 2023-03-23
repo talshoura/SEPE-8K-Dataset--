@@ -9,16 +9,7 @@ For comments, feedback, or question please [Contact Us](mailto:Tariq.AlShoura@uc
 ## Table of Contents
   * [Bitrates used for each video codec and resolution combination.](#bitrates-used-for-each-video-codec-and-resolution-combination)
   * [Spatial and Temporal Perceptual Information Distribution.](#spatial-and-temporal-perceptual-information-distribution)
-  * [FFmpeg Commands](#ffmpeg-commands)
-    * [Video Encoding Commands](#video-encoding-commands)
-    * [Image Transforming Commands](#image-transforming-commands)
   * [Video Sequences Details and Encoding Evaluation.](#video-sequences-details-and-encoding-evaluation)
-
-<!-- <style>
-.boarderless td, th {
-   border: none!important;
-}
-</style> -->
 
 <table class="boarderless">
 <tr><td>&#9900; <a href='#sequence-001'>Sequence 001</a></td><td>&#9900; <a href='#sequence-002'>Sequence 002</a></td><td>&#9900; <a href='#sequence-003'>Sequence 003</a></td><td>&#9900; <a href='#sequence-004'>Sequence 004</a></td></tr>
@@ -32,6 +23,13 @@ For comments, feedback, or question please [Contact Us](mailto:Tariq.AlShoura@uc
 <tr><td>&#9900; <a href='#sequence-033'>Sequence 033</a></td><td>&#9900; <a href='#sequence-034'>Sequence 034</a></td><td>&#9900; <a href='#sequence-035'>Sequence 035</a></td><td>&#9900; <a href='#sequence-036'>Sequence 036</a></td></tr>
 <tr><td>&#9900; <a href='#sequence-037'>Sequence 037</a></td><td>&#9900; <a href='#sequence-038'>Sequence 038</a></td><td>&#9900; <a href='#sequence-039'>Sequence 039</a></td><td>&#9900; <a href='#sequence-040'>Sequence 040</a></td></tr>
 </table>
+
+
+* [FFmpeg Commands](#ffmpeg-commands)
+    * [Video Encoding Commands](#video-encoding-commands)
+    * [Image Transforming Commands](#image-transforming-commands)
+* [Video Sequences Average RBG Histogram over time](#video-sequences-average-rbg-histogram-over-time)
+* [Images Histogram over time](#images-histogram-over-time)
 
 
 _________________________________________________________________________________
@@ -146,162 +144,6 @@ ________________
 [Back to Top](#idtext)
 
 ________________
-
-
-## FFmpeg Commands
-
-### Video Encoding Commands
-**Base video encoding script**
-```
-ffmpeg -framerate 30000/1001 -pattern_type glob -i "${sequenceID}/*.png" -vf scale=-1:${scale} -b:v ${bitrate}$ -c:v ${encoder} -preset ${preset} "${sequenceID}_${codec}_${resolution}.mp4"
-```
-<br>
-
-*__Table  42__. Variable alternatives used in generating encoded videos*
-<table>
-
-  <tr>
-    <th>Variable</th>
-    <th>Alternative</th>
-    <th>Value</th>
-  </tr>
-
-  <tr>
-    <td><code>${sequenceID}</code></td>
-    <td>-</td>
-    <td>from 000 to 040</td>
-  </tr>
-  <tr>
-    <td rowspan="6"><code>${scale}</code></td>
-    <td>8K</td>
-    <td><code>4320</code></td>
-  </tr>
-  <tr>
-    <td>4K</td>
-    <td><code>2160</code></td>
-  </tr>
-  <tr>
-    <td>2K</td>
-    <td><code>1440</code></td>
-  </tr>
-  <tr>
-    <td>1K</td>
-    <td><code>1080</code></td>
-  </tr>
-  <tr>
-    <td>720p</td>
-    <td><code>720</code></td>
-  </tr>
-  <tr>
-    <td>480p</td>
-    <td><code>480</code></td>
-  </tr>
-  <tr>
-    <td><code>${bitrate}</code></td>
-    <td>-</td>
-    <td>Depends on the required value. <br>Refer to <a href='#bitrates-used-for-each-video-codec-and-resolution-combination'>Table 1 </a> for the values used.</td>
-  </tr>
-  <tr>
-    <td rowspan="3"><code>${encoder}</code></td>
-    <td>HEVC/H265</td>
-    <td><code>hevc_nvenc</code></td>
-  </tr>
-  <tr>
-    <td>AVC/H264</td>
-    <td><code>h264_nvenc</code></td>
-  </tr>
-  <tr>
-    <td>AV1</td>
-    <td><code>libaom-av1</code></td>
-  </tr>
-  <tr>
-    <td rowspan="3"><code>${presets}</code></td>
-    <td>HEVC/H265</td>
-    <td><code>18</code></td>
-  </tr>
-  <tr>
-    <td>AVC/H264</td>
-    <td><code>18</code></td>
-  </tr>
-  <tr>
-    <td>AV1</td>
-    <td><code>slow</code></td>
-  </tr>
-</table>
-
-
-[Back to Top](#idtext)
-
-________________
-
-
-
-### Image Transforming Commands
-**Base image transforming script**
-```
-ffmpeg -i "${imageID}/*.tif" -vf scale=-1:${scale} "${imageID}_${codec}_${resolution}.${extention}"
-```
-<br>
-
-*__Table  42__. Variable alternatives used in generating encoded videos*
-<table>
-
-  <tr>
-    <th>Variable</th>
-    <th>Alternative</th>
-    <th>Value</th>
-  </tr>
-
-  <tr>
-    <td><code>${imageID}</code></td>
-    <td>-</td>
-    <td>from 000 to 040</td>
-  </tr>
-  <tr>
-    <td rowspan="6"><code>${scale}</code></td>
-    <td>8K</td>
-    <td><code>4320</code></td>
-  </tr>
-  <tr>
-    <td>4K</td>
-    <td><code>2160</code></td>
-  </tr>
-  <tr>
-    <td>2K</td>
-    <td><code>1440</code></td>
-  </tr>
-  <tr>
-    <td>1K</td>
-    <td><code>1080</code></td>
-  </tr>
-  <tr>
-    <td>720p</td>
-    <td><code>720</code></td>
-  </tr>
-  <tr>
-    <td>480p</td>
-    <td><code>480</code></td>
-  </tr>
-  <tr>
-    <td rowspan="3"><code>${extention}</code></td>
-    <td>PNG</td>
-    <td><code>png</code></td>
-  </tr>
-  <tr>
-    <td>JPEG</td>
-    <td><code>jpg</code></td>
-  </tr>
-  <tr>
-    <td>WEBP</td>
-    <td><code>webp</code></td>
-  </tr>
-</table>
-
-
-[Back to Top](#idtext)
-
-____________________
-
 
 
 ## Video Sequences Details and Encoding Evaluation.
@@ -1755,8 +1597,162 @@ Source: [HERE](https://drive.google.com/drive/folders/19YXXi2zxCMBf5oJ_vSJPhDa6M
 __________
 
 
+## FFmpeg Commands
 
-## Video Sequences average RBG Histogram over time.
+### Video Encoding Commands
+**Base video encoding script**
+```
+ffmpeg -framerate 30000/1001 -pattern_type glob -i "${sequenceID}/*.png" -vf scale=-1:${scale} -b:v ${bitrate}$ -c:v ${encoder} -preset ${preset} "${sequenceID}_${codec}_${resolution}.mp4"
+```
+<br>
+
+*__Table  42__. Variable alternatives used in generating encoded videos*
+<table>
+
+  <tr>
+    <th>Variable</th>
+    <th>Alternative</th>
+    <th>Value</th>
+  </tr>
+
+  <tr>
+    <td><code>${sequenceID}</code></td>
+    <td>-</td>
+    <td>from 000 to 040</td>
+  </tr>
+  <tr>
+    <td rowspan="6"><code>${scale}</code></td>
+    <td>8K</td>
+    <td><code>4320</code></td>
+  </tr>
+  <tr>
+    <td>4K</td>
+    <td><code>2160</code></td>
+  </tr>
+  <tr>
+    <td>2K</td>
+    <td><code>1440</code></td>
+  </tr>
+  <tr>
+    <td>1K</td>
+    <td><code>1080</code></td>
+  </tr>
+  <tr>
+    <td>720p</td>
+    <td><code>720</code></td>
+  </tr>
+  <tr>
+    <td>480p</td>
+    <td><code>480</code></td>
+  </tr>
+  <tr>
+    <td><code>${bitrate}</code></td>
+    <td>-</td>
+    <td>Depends on the required value. <br>Refer to <a href='#bitrates-used-for-each-video-codec-and-resolution-combination'>Table 1 </a> for the values used.</td>
+  </tr>
+  <tr>
+    <td rowspan="3"><code>${encoder}</code></td>
+    <td>HEVC/H265</td>
+    <td><code>hevc_nvenc</code></td>
+  </tr>
+  <tr>
+    <td>AVC/H264</td>
+    <td><code>h264_nvenc</code></td>
+  </tr>
+  <tr>
+    <td>AV1</td>
+    <td><code>libaom-av1</code></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><code>${presets}</code></td>
+    <td>HEVC/H265</td>
+    <td><code>18</code></td>
+  </tr>
+  <tr>
+    <td>AVC/H264</td>
+    <td><code>18</code></td>
+  </tr>
+  <tr>
+    <td>AV1</td>
+    <td><code>slow</code></td>
+  </tr>
+</table>
+
+
+[Back to Top](#idtext)
+
+________________
+
+
+
+### Image Transforming Commands
+**Base image transforming script**
+```
+ffmpeg -i "${imageID}/*.tif" -vf scale=-1:${scale} "${imageID}_${codec}_${resolution}.${extention}"
+```
+<br>
+
+*__Table  43__. Variable alternatives used in generating encoded videos*
+<table>
+
+  <tr>
+    <th>Variable</th>
+    <th>Alternative</th>
+    <th>Value</th>
+  </tr>
+
+  <tr>
+    <td><code>${imageID}</code></td>
+    <td>-</td>
+    <td>from 000 to 040</td>
+  </tr>
+  <tr>
+    <td rowspan="6"><code>${scale}</code></td>
+    <td>8K</td>
+    <td><code>4320</code></td>
+  </tr>
+  <tr>
+    <td>4K</td>
+    <td><code>2160</code></td>
+  </tr>
+  <tr>
+    <td>2K</td>
+    <td><code>1440</code></td>
+  </tr>
+  <tr>
+    <td>1K</td>
+    <td><code>1080</code></td>
+  </tr>
+  <tr>
+    <td>720p</td>
+    <td><code>720</code></td>
+  </tr>
+  <tr>
+    <td>480p</td>
+    <td><code>480</code></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><code>${extention}</code></td>
+    <td>PNG</td>
+    <td><code>png</code></td>
+  </tr>
+  <tr>
+    <td>JPEG</td>
+    <td><code>jpg</code></td>
+  </tr>
+  <tr>
+    <td>WEBP</td>
+    <td><code>webp</code></td>
+  </tr>
+</table>
+
+
+[Back to Top](#idtext)
+
+____________________
+
+
+## Video Sequences Average RBG Histogram over time.
 ![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/Seq_Hist.png)
 *__Figure 42.__ Average RBG Histogram over time for all the sequences in the SEPE dataset*
 
@@ -1771,4 +1767,5 @@ _________
 [Back to Top](#idtext)
 
 _________
+
 
