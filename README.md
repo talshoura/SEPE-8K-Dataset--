@@ -32,7 +32,7 @@ For comments, feedback, or question please [Contact Us](mailto:Tariq.AlShoura@uc
 * [Images Histogram over time](#images-histogram-over-time)
 
 
-___
+_________________________________________________________________________________
 ## Bitrates used for each video codec and resolution combination.
 *__Table  1__. Bitrates used for each video codec and resolution combination*
 <table> 
@@ -134,7 +134,7 @@ ___
 
 [Back to Top](#idtext)
 
-___
+________________
 
 
 ## Spatial and Temporal Perceptual Information Distribution.
@@ -143,7 +143,7 @@ ___
 
 [Back to Top](#idtext)
 
-___
+________________
 
 
 ## Video Sequences Details and Encoding Evaluation.
@@ -156,7 +156,7 @@ Size of encoded videos: ~302 MB
 
 [Back to Top](#idtext)
 
-___
+________________________________________________________________________
 
 ### Sequence 001
 [![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/001_480p.png)](https://drive.google.com/drive/folders/1wX3zV3zAJcS7l59DykFUdKLYP6daCkDd?usp=sharing)\
@@ -190,7 +190,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1wX3zV3zAJcS7l59DykFUdKLYP
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -226,7 +226,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1J6EYEN6rjyiHzX5Hf9_wMHrQc
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -262,7 +262,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1veJuOduzKV0UUrrx_Rk2zRwDh
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -298,7 +298,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1qP8jLVDdv1xSiWFZk7WiMmilz
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -334,7 +334,7 @@ Source: [HERE](https://drive.google.com/drive/folders/10ArGk3Synyx9gXd2CHl6VXt9E
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -370,7 +370,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1hkZd8n7F7iTMkahTHW2aZyTZi
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -406,7 +406,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1-crbTwtjwLnkPu5OW4gL6em0o
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -442,7 +442,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1I1FJ5gMShqGPSmxBVGmogbO2R
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -478,7 +478,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1C0Cjke5SXXei92v64JNL_GxGW
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -514,7 +514,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1t7G9eImxwUE94KxYuRuhk5h5U
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -550,7 +550,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1jMto-6myikzWCoCo5Y0FrdPDx
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -586,7 +586,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1YLJP1JAUjifGtgSTnVL1Wlx2W
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -622,7 +622,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1BW78JWK1FURwVFlbO9wobWGxf
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -658,7 +658,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1Jjdrihc_lPh_ABPRZVbvOGJaP
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -694,7 +694,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1quWkHPelIIjqnNuEzBwE_PXGW
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -730,7 +730,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1Bvk4CJpKb820Iwje3RbnG0Soi
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -766,7 +766,7 @@ Source: [HERE](https://drive.google.com/drive/folders/17sLpoKqUAQhiLmESB4niZ0b9v
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -802,7 +802,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1gpKwiGLZ03IV0PIWQlB5eEfxo
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -838,7 +838,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1cKPTbkDro_DCzgZKtirpv59T8
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -874,7 +874,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1Ss7JO2Do-UcA1uGSFQo-qp_In
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -910,7 +910,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1GN4c0wgolAYQr51oFJvyxQR2i
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -946,7 +946,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1yKmK7s2gx4roQmGLwitOnJn0O
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -982,7 +982,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1_E4fP5i9RE3mQHtGA5vAcDDOQ
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -1018,7 +1018,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1746B8UPJR77UmERnP9as62Z6P
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -1054,7 +1054,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1PQtP-u0U8sFXp384uS6vTRnnU
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -1090,7 +1090,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1acCPiOXh78ZKhw-OoVFBiNjKs
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -1126,7 +1126,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1F8o_t2UhfEC8UnkEHO017jht2
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -1162,7 +1162,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1WxHTv7sT_R9Gend0IDZ2DIzQe
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -1198,7 +1198,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1Gmb-2hwoxd2TGwEaF1ePp4Ftr
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -1234,7 +1234,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1lgYq24zbyKTusHddLB9U4Hsvv
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -1270,7 +1270,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1-uBPcBo-lnnBb1uV04P5IywzH
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -1306,7 +1306,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1XNEH14stdG834bGYfk7Y9Cc_o
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -1342,7 +1342,7 @@ Source: [HERE](https://drive.google.com/drive/folders/13Llz-BrpnPvflcVGEhvKYJxsS
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -1378,7 +1378,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1YmHT6kDsSb2a7yEOUgrhXhwvO
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -1414,7 +1414,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1tsKQVAPpNB0gWcTf4YqSafH3Z
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -1450,7 +1450,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1sH0a5J9zXNoVUMxOQmAjE-CbU
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -1486,7 +1486,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1-uoD5UDSn9YXsUwF0RuAt-W84
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -1522,7 +1522,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1H7AhvVj59Gv_FjkfNzLOLR3zA
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -1558,7 +1558,7 @@ Source: [HERE](https://drive.google.com/drive/folders/1jU6AUf1Vf8ge8Jn7OoCJMPazU
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -1594,7 +1594,7 @@ Source: [HERE](https://drive.google.com/drive/folders/19YXXi2zxCMBf5oJ_vSJPhDa6M
 
 [Back to Top](#idtext)
 
-___
+__________
 
 
 
@@ -1683,7 +1683,7 @@ ffmpeg -framerate 30000/1001 -pattern_type glob -i "${sequenceID}/*.png" -vf sca
 
 [Back to Top](#idtext)
 
-___
+________________
 
 
 
@@ -1751,7 +1751,7 @@ ffmpeg -i "${imageID}/*.tif" -vf scale=-1:${scale} "${imageID}_${codec}_${resolu
 
 [Back to Top](#idtext)
 
-___
+____________________
 
 
 ## Video Sequences Average RBG Histogram over time.
@@ -1759,7 +1759,7 @@ ___
 *__Figure 42.__ Average RBG Histogram over time for all the sequences in the SEPE dataset*
 
 [Back to Top](#idtext)
-___
+_________
 
 
 ## Images Histogram over time.
@@ -1768,6 +1768,6 @@ ___
 
 [Back to Top](#idtext)
 
-___
+_________
 
 
