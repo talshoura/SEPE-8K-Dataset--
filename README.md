@@ -156,7 +156,7 @@ Size of encoded videos: ~302 MB
 
 [Back to Top](#idtext)
 
-________________________________________________________________________
+_______________________________________________________________________
 
 ### Sequence 001
 [![Seq# 1](https://raw.githubusercontent.com/talshoura/SEPE-8K-Dataset/main/assets/thumbnails/001_480p.png)](https://drive.google.com/drive/folders/1wX3zV3zAJcS7l59DykFUdKLYP6daCkDd?usp=sharing)\
